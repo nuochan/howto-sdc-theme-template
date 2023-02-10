@@ -34,6 +34,7 @@ By default, the SDC theme file ***SDC - theme.thmx*** and sprint review template
 stored in ***TM_SDC -> Files -> Team Ceremonies***
 
 ![](image/file_location_1.png)
+
 ![](image/file_location_2.png)
 
 Or downloand directly below. (Require access to SDC Team folder)
@@ -46,9 +47,11 @@ Or downloand directly below. (Require access to SDC Team folder)
 ### Add theme to your computer
 You can add and save the theme in PowerPoint so that you can use it next time. To do so, go to **Design** -> **Themes** and click the downward arrow on
 the bottom right corner:
+
 ![](image/save_theme_1.png)
 
 In the dropdown menu, select **Save Current Theme..**
+
 ![](image/save_theme_2.png)
 
 In the pop-up window, give it a memorable name(for example, SDC theme) then click **Save** to save the theme at default location. 
@@ -59,6 +62,7 @@ C:\Users\*your_username*\AppData\Roaming\Microsoft\Templates\Document Themes
 ```
 
 Once you have done that, you should see your new theme under **Design** -> **Themes** -> **Custom**.
+
 ![](image/theme_saved.png)
 
 
@@ -81,9 +85,12 @@ To apply SDC theme to existing decks, simply go to **Design** -> **Themes**, and
 
 #### Create new decks with SDC theme
 To create new decks with SDC theme, open PowerPoint app or go to **File** if PowerPoint is already opened:
+
 ![](image/create_new_1.png)
 
-If you have saved the theme in your computer, you should see the SDC theme under **New** section. Clicking it will open a pop-up window that shows sample slides of the theme.
+If you have saved the theme in your computer, you should see the SDC theme under **New** section. Clicking it will 
+open a pop-up window that shows sample slides of the theme.
+
 ![](image/create_new_2.png)
 
 Click **Create** to continue and start creating your new slide deck.
@@ -108,10 +115,12 @@ Once you have opened it in your computer, you can start populating the deck.
 *Be cautious before making any changes, as it may affect all slide decks using this theme prior and after*.
 
 To make changes to the theme, go to **View** -> **Master Views** and select **Slide Master**.
+
 ![](image/edit_theme_1.png)
 
 In **Slide Master** screen, you can use a variety of tools to design your theme, including adding new layout, changing colour
 scheme and fonts, or insert images. Once you are done, click **Close Master View** to exit.
+
 ![](image/edit_theme_toolbar.png)
 
 In **Slide Master** screen, you can make changes to
@@ -130,6 +139,7 @@ If you wish to share the new theme or store it in Teams folder, upload the **.po
 
 To edit SDC Sprint Review template, open the ***.potx*** file in PowerPoint app, make your changes and save the file. Make sure
 you select  to save the file as a template instead of a slide deck. 
+
 ![](image/save_template.png)
 
 As you cannot edit a template in a browser, you cannot edit the template stored in the Teams folder. To share your new template
@@ -149,18 +159,22 @@ C:\Users\*your_username*\AppData\Roaming\Microsoft\Templates\Document Themes
 
 ## Troubleshooting
 ### Can't edit in a browser
+
 ![](image/cant_edit_in_browser.png)
 If you try editing in a browser but saw this message and are prevented to make changes in the browser, make sure you are not opening a template file directly. 
 You can tell by looking at the suffix of the file. If the file name ends with ***.potx***, you have opened the PowerPoint template file.
 
 Solution: Click **Viewing** and select **Open in Desktop App**.
+
 ![](image/open_in_app.png)
 
 It will open the PowerPoint app in your computer and enable editing. It is recommended to save a copy before you make any changes further at this point.
 To do so, go to **File** and select **Save a Copy**. You should not see other save options.
+
 ![](image/save_a_copy.png)
 
 Make sure to select ***.pptx*** (or ***.ppt*** for older verions) in the dropdown menu
+
 ![](image/save_as_pptx.png)
 
 If you have not save a copy before making any changes, you still have to save a copy once you have finished editing.
@@ -169,7 +183,7 @@ Once you have saved your slide deck as a ***.pptx*** file, you can upload the fi
 
 [comment]: # (Thank you Jenn and Laurel for reporting to this issue)
 
-### *TBD*
+### *To Be Added*
 
 [comment]: # (populate this section along the way)
 
