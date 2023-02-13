@@ -68,7 +68,7 @@ Once you have done that, you should see your new theme under **Design** -> **The
 
 [Back to top][1]
 
-[1]: #table-of-content
+[3]: #table-of-content
 
 ---
 
@@ -194,11 +194,11 @@ Once you have saved your slide deck as a ***.pptx*** file, you can upload the fi
 ![](image/bcmark.png)
 
 
-[Back to download][2]
+[Back to download][1]
 
 [Back to top][3]
 
 
 [2]: #fantastic-themes-and-where-to-find-them
 
-[3]: #How-to-use-SDC-Theme-and-SDC-Sprint-Review-Template
+[1]: #How-to-use-SDC-Theme-and-SDC-Sprint-Review-Template
