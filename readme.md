@@ -6,7 +6,7 @@ title: How to use SDC theme and sprint review tempalte
 # How to use SDC Theme and SDC Sprint Review Template
 ### Updtate: 2023-02-10
 
----
+
 ## Table of Content
 + [Before you use](#before-you-start)
     + [Fantastic themes and where to find them](#Fantastic-themes-and-where-to-find-them)
@@ -21,9 +21,11 @@ title: How to use SDC theme and sprint review tempalte
     + [Editing Sprint Review template](#editing-sprint-review-template)
 + [Troubleshooting](#troubleshooting)
 
----
 
 ## Before you start
+
+---
+
 It is recommended to save a copy of the theme or template file in your computer for future use and minimize the chance of 
 encountering any unforseen issues.<sup>[1](#troubleshooting)</sup>
 To save a copy, simply download the theme/template file to your computer.
@@ -68,13 +70,11 @@ Once you have done that, you should see your new theme under **Design** -> **The
 
 [Back to top][1]
 
-[3]: #table-of-content
-
----
 
 
 ## Using SDC theme and Sprint Review template
 
+---
 
 ### How to use SDC theme
 
@@ -107,9 +107,9 @@ Once you have opened it in your computer, you can start populating the deck.
 [Back to top][1]
 
 
----
-
 ## Editing
+
+---
 
 ### Editing SDC theme
 *Be cautious before making any changes, as it may affect all slide decks using this theme prior and after*.
@@ -154,10 +154,11 @@ C:\Users\*your_username*\AppData\Roaming\Microsoft\Templates\Document Themes
 [Back to top][1]
 
 
----
-
 
 ## Troubleshooting
+
+---
+
 ### Can't edit in a browser
 
 ![](image/cant_edit_in_browser.png)
@@ -183,20 +184,25 @@ Once you have saved your slide deck as a ***.pptx*** file, you can upload the fi
 
 [comment]: # (Thank you Jenn and Laurel for reporting to this issue)
 
-### *To Be Added*
+### *More To Be Added*
 
 [comment]: # (populate this section along the way)
 
----
+
+[Back to top][1]
+
+
 
 ## End of Document
+
+---
 
 ![](image/bcmark.png)
 
 
-[Back to download][1]
+[Back to download][2]
 
-[Back to top][3]
+[Back to top][1]
 
 
 [2]: #fantastic-themes-and-where-to-find-them
