@@ -197,7 +197,6 @@ Once you have saved your slide deck as a ***.pptx*** file, you can upload the fi
 
 ---
 
-![](image/bcmark.png)
 
 
 [Back to download][2]
